@@ -1,0 +1,4 @@
+prometheus_client
+python-socketio[client]
+python-dotenv
+requests
